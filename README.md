@@ -3,7 +3,7 @@
 A Web application to send HTTP GET and POST Requests, with custom Headers, Params, and Cookies. MADE USING STREAMLIT
 
 ## Ready to use instance
-<a href=https://request.itertools.repl.co>https://request.itertools.repl.co<\a>
+<a href=https://request.itertools.repl.co>https://request.itertools.repl.co</a>
 
 
 ### Find Me on :

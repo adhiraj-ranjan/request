@@ -24,6 +24,7 @@ def send_request(url, method, headers, params, cookies):
 
 
 def main():
+  st.set_page_config(page_title="HTTP requets sender")
   st.title("Request Sender")
 
   url = st.text_input("URL")
